@@ -7,4 +7,12 @@ The information on National Weather Service (NWS) Web pages are in the public do
 
 Furthermore, as mentioned by https://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD&countryabbv=IR&georegionabbv=&resolution=40: 
 The following data and products may have conditions placed on their international commercial use. They can be used within the U.S. or for non-commercial international activities without restriction. The non-U.S. data cannot be redistributed for commercial purposes. Re-distribution of these data by others must provide this same notification. 
-One must agrees to above mentioned terms to use any data from this repository.   
+One must agrees to above mentioned terms to use any data from this repository. 
+
+Refined-Stations are those stations where 
+i) The station was active up to 2017 
+ii) It has a year with at least 1000 clean data points.
+
+"refinedStations" file contains such stations. The format is [Station ID, list[year]]. For instance:
+['46084', [2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]]. You can see that the year 2009 is missing. It means that in that year less than 1000 clean data points where measured.   
+
