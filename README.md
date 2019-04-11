@@ -14,5 +14,5 @@ i) The station was active up to 2017
 ii) It has a year with at least 1000 clean data points.
 
 "refinedStations" file contains such stations. The format is [Station ID, list[year]]. For instance:
-['46084', [2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]]. You may notice the year 2009 is missing. It means that in that year less than 1000 clean data points where measured.   
+['46084', [2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]]. You may notice the year 2009 is missing. It means that in the year 2009, less than 1000 accurate data points where measured.   
 
