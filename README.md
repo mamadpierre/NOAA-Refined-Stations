@@ -27,9 +27,7 @@ Forecasting, reconstruction and feature selection folders contain some of the re
 
 @article{pirhooshyaran2019feature,
   title={Feature Engineering and Forecasting via Derivative-free Optimization and Ensemble of Sequence-to-sequence Networks with Applications in Renewable Energy},
-  author={Pirhooshyaran, Mohammad and Snyder, Lawrence V and Scheinberg, Katya},
+  author={Pirhooshyaran, Mohammad and Scheinberg, Katya and Snyder, Lawrence V},
   journal={arXiv preprint arXiv:1909.05447},
   year={2019}
 }
-
-
