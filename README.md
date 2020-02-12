@@ -17,18 +17,29 @@ ii) It has a year with at least 1000 clean data points.
 
 Forecasting, reconstruction and feature selection folders contain some of the refined stations data which are used in the paper. Missing points have only been omitted without anymore changes. 
 
+Citaiton:
 
 @article{pirhooshyaran2019multivariate,
+
   title={Multivariate, multistep forecasting, reconstruction and feature selection of ocean waves via recurrent and sequence-to-sequence networks},
+  
   author={Pirhooshyaran, Mohammad and Snyder, Lawrence V},
+  
   journal={arXiv preprint arXiv:1906.00195},
+  
   year={2019}
+  
 }
 
 
 @article{pirhooshyaran2019feature,
+
   title={Feature Engineering and Forecasting via Derivative-free Optimization and Ensemble of Sequence-to-sequence Networks with Applications in Renewable Energy},
+  
   author={Pirhooshyaran, Mohammad and Scheinberg, Katya and Snyder, Lawrence V},
+  
   journal={arXiv preprint arXiv:1909.05447},
+  
   year={2019}
+  
 }
