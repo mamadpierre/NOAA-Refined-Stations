@@ -19,7 +19,7 @@ Forecasting, reconstruction and feature selection folders contain some of the re
 
 Citaiton:
 
-@article{pirhooshyaran2019multivariate,
+```@article{pirhooshyaran2019multivariate,
 
   title={Multivariate, multistep forecasting, reconstruction and feature selection of ocean waves via recurrent and sequence-to-sequence networks},
   
@@ -42,4 +42,4 @@ Citaiton:
   
   year={2019}
   
-}
+}```
